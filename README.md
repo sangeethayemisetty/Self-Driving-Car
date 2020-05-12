@@ -7,7 +7,7 @@
  - Process the images to find the angles to deviate
  - Minimize error
  ## DATA FORMAT
- - Total number of images -45406
+ - Total number of images : 45406
  - Angle label for each image
  ## EXPLORATORY DATA ANALYSIS
   - Load data using OpenCV
